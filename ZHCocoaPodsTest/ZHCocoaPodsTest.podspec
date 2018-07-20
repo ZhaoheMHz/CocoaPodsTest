@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
 
   s.name         = "ZHCocoaPodsTest"                           # 名称
-  s.version      = "1.2"                                # 版本号，git 的 tag
+  s.version      = "1.3"                                # 版本号，git 的 tag
   s.summary      = "一个简单的分类用于测试 Cocoapods 1.0"
 
   s.description  = <<-DESC
                     - 测试 pod
-                    - Cocoapods v1.2
+                    - Cocoapods v1.3
                     - description 需要比 summary 长
                    DESC
 
